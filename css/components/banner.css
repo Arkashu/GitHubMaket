@@ -1,0 +1,12 @@
+.banner{
+  background-image: url(../../images/backround-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 124px 0;
+}
+.banner-wrapper h2{
+    color: white;
+    font-size: 60px;
+
+}

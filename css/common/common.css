@@ -1,0 +1,6 @@
+.container{
+    justify-content: center;
+    padding: 35px 120px;
+    margin: 0 auto;
+    display: flex;
+}

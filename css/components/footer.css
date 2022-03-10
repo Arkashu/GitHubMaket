@@ -1,0 +1,28 @@
+.footer-wrapper a{
+    list-style: none;
+}
+.footer-wrapper p{
+    color: #bebebe;
+    width: 50%;
+}
+.footer-wrapper ul{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+ footer .footer-wrapper{
+    display: flex;
+}
+ .footer-wrapper ul li :not(:last-child){
+     padding-right: 20px;
+ }
+.footer-wrapper ul li a{
+    color: #4183c4;
+    text-decoration: none;
+}
+footer{
+    padding: 0 0 50px 0;
+    border-top: 1px solid #dddddd;
+    background-color: #f5f5f5;
+}
+
